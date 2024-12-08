@@ -17,7 +17,7 @@ h1, h2, p {
     display: inline-block;
 }
 
-.sabor {
+.sabor, .sobremesas {
     text-align: left;
     width: 75%;
 }
